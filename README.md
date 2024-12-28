@@ -1,4 +1,4 @@
-# EDU Chain BuildStation Istanbul
+# EDU Chain App
 
 ## Installation
 
